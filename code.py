@@ -3,6 +3,6 @@
 # RGB Led Test
 import examples.rgbled
 
-# Neopixels Test
+# Neopixels Test (On P6 pins)
 # import examples.neopixels
 
